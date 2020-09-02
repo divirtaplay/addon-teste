@@ -1,7 +1,7 @@
 <channels>
 <channel>
 <name>FILMES</name>
-<thumbnail></thumbnail>
+<thumbnail>https://ia601404.us.archive.org/9/items/filmes_202009/FILMES.png</thumbnail>
 <externallink>https://</externallink>
 <fanart></fanart>
 <info>
@@ -16,9 +16,9 @@
 <channels>
 <channel>
 <name>SÉRIES</name>
-<thumbnail></thumbnail>
+<thumbnail>https://ia801404.us.archive.org/9/items/filmes_202009/SÉRIES.png</thumbnail>
 <externallink>https://</externallink>
-<fanart>https://ia601404.us.archive.org/9/items/filmes_202009/fanart.jpg</fanart>
+<fanart>https://ia801407.us.archive.org/12/items/bem-vindo_202009/fanart.jpg<</fanart>
 <info>
 
 
@@ -31,9 +31,9 @@
 <channels>
 <channel>
 <name>KIDS</name>
-<thumbnail></thumbnail>
+<thumbnail>https://ia801404.us.archive.org/9/items/filmes_202009/KIDS.png</thumbnail>
 <externallink>https://</externallink>
-<fanart>https://ia601404.us.archive.org/9/items/filmes_202009/fanart.jpg</fanart>
+<fanart>https://ia801407.us.archive.org/12/items/bem-vindo_202009/fanart.jpg<</fanart>
 <info>
 
 
@@ -46,9 +46,9 @@
 <channels>
 <channel>
 <name>LANÇAMENTOS</name>
-<thumbnail></thumbnail>
+<thumbnail>https://ia801404.us.archive.org/9/items/filmes_202009/LANÇAMENTOS.png</thumbnail>
 <externallink>https://</externallink>
-<fanart>https://ia601404.us.archive.org/9/items/filmes_202009/fanart.jpg</fanart>
+<fanart>https://ia801407.us.archive.org/12/items/bem-vindo_202009/fanart.jpg<</fanart>
 <info>
 
 
@@ -57,6 +57,8 @@
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
 
 
 
